@@ -1,6 +1,7 @@
 # Hola 👋 Soy Ian
 
 Egresado de Ingeniería Mecánica | Ingeniero Físico | Matemático Aplicado
+
 ## 📊 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iangrosssan)](https://github.com/anuraghazra/github-readme-stats)
+![Ian's GitHub stats](https://github-readme-stats.vercel.app/api?username=iangrosssan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
