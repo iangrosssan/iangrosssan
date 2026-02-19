@@ -3,4 +3,4 @@
 Egresado de Ingeniería Mecánica | Ingeniero Físico | Matemático Aplicado
 ## 📊 GitHub Stats
 
-![Ian's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iangrosssan)](https://github.com/anuraghazra/github-readme-stats)
